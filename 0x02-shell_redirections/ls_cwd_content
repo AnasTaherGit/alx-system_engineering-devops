@@ -1,0 +1,15 @@
+total 52
+drwxr-xr-x 2 anas anas 4096 Mar 13 23:41 .
+drwxr-xr-x 6 anas anas 4096 Mar 13 22:01 ..
+-rwxr-x--x 1 anas anas   32 Mar 13 22:20 0-hello_world
+-rwxr-x--x 1 anas anas   28 Mar 13 22:28 1-confused_smiley
+-rwxr-x--x 1 anas anas   28 Mar 13 22:35 2-hellofile
+-rwxr-x--x 1 anas anas   39 Mar 13 22:38 3-twofiles
+-rwxr-x--x 1 anas anas   35 Mar 13 22:40 4-lastlines
+-rwxr-xr-x 1 anas anas   35 Mar 13 22:47 5-firstlines
+-rwxr-xr-x 1 anas anas   40 Mar 13 22:54 6-third_line
+-rwxr-xr-x 1 anas anas   88 Mar 13 23:37 7-file
+-rw-r--r-- 1 anas anas   12 Mar 13 23:40 8-cwd_state
+-rw-r--r-- 1 anas anas   20 Mar 13 22:04 README.md
+-rw-r--r-- 1 anas anas   12 Mar 13 23:37 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 anas anas    0 Mar 13 23:41 ls_cwd_content
