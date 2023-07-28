@@ -1,0 +1,5 @@
+#!/bin/bash
+# shellcheck disable=SC2009
+# Display the running bash processes
+
+ps auxf | grep bash
