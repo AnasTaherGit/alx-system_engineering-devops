@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# Displays if the host is on the network
+IP="${1}"
+fn=$(basename "${BASH_SOURCE[@]}")
+
+if ! [ "$IP" ]; then
+	echo "Usage: ${fn} {IP_ADDRESS}"
+else
+	ping -c 5 "${IP}"
+fi
